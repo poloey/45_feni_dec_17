@@ -1,4 +1,5 @@
-## js show password 
+### js show password 
+Markup part
 ~~~html
 <div class="form-group">
     <label for="password">Password</label>
